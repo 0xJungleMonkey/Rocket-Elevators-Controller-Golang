@@ -19,10 +19,7 @@ To launch the tests:
 
 
 With a fully completed project, you should get an output like:
-output1.png
-![Alt text](http://full/path/to/img.jpg "Optional title")
 
-
-The test and scenarios files can be left in your final project. The grader will run tests similar to the ones provided.
-
-Of course, make sure to edit this Readme file to describe your own project!
+!OutPut(https://github.com/0xJungleMonkey/-Rocket-Elevators-Golang-Controller/blob/0d8d16331698a896c67320eafd30967c00f97f83/output1.png)        "Test pass output")
+ OR
+!OutPut(https://github.com/0xJungleMonkey/-Rocket-Elevators-Golang-Controller/blob/ab3304ea27327d914c3b76f06ab9e3cce04866aa/output2.png    "Test pass output")
