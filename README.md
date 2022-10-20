@@ -22,4 +22,4 @@ With a fully completed project, you should get an output like:
 
 !OutPut(https://github.com/0xJungleMonkey/-Rocket-Elevators-Golang-Controller/blob/1ce36428cf97d3dc315b46492ff43614f22ac892/output1.png)        "Test pass output")
  OR
-!OutPut(https://github.com/0xJungleMonkey/-Rocket-Elevators-Golang-Controller/blob/ab3304ea27327d914c3b76f06ab9e3cce04866aa/output2.png    "Test pass output")
+!OutPut(https://github.com/0xJungleMonkey/-Rocket-Elevators-Golang-Controller/blob/1ce36428cf97d3dc315b46492ff43614f22ac892/output2.png   "Test pass output")
